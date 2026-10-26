@@ -4,6 +4,8 @@
 
 Code the Dream, Python 100 final project (capstone) by Brian Bazurto ([ba-00001](https://github.com/ba-00001)).
 
+**Colab notebook (public):** https://colab.research.google.com/drive/1hlMLzbSWdUzTomWZooXEYugzOq-i0iLn
+
 **Kaggle notebook:** https://www.kaggle.com/code/acerpc/ctd-python-data-pipeline
 
 ## Dataset
