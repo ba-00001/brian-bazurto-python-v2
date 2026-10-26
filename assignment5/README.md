@@ -12,9 +12,10 @@ This README is the single link I submit for Week 5. Every deliverable is linked 
 |---|---|
 | **Pull request** (code + review) | [#5](https://github.com/ba-00001/brian-bazurto-python-v2/pull/5) |
 | Folder on branch `assignment5` | [assignment5/](https://github.com/ba-00001/brian-bazurto-python-v2/tree/assignment5/assignment5) |
-| **Colab notebook** (public, run with outputs) | [Open in Colab](https://colab.research.google.com/drive/1PAs1W7DB7ep7DRKyOY92Vw0IbsX1PQan) |
-| Kaggle notebook (same code; private on Kaggle) | [ctd-assignment-5](https://www.kaggle.com/code/acerpc/ctd-assignment-5) |
-| **Capstone / final project** — Colab (public) | [Open in Colab](https://colab.research.google.com/drive/1hlMLzbSWdUzTomWZooXEYugzOq-i0iLn) |
+| **Kaggle notebook** (public, run with outputs) | [ctd-assignment-5](https://www.kaggle.com/code/acerpc/ctd-assignment-5) |
+| Colab copy (same code, public) | [Open in Colab](https://colab.research.google.com/drive/1PAs1W7DB7ep7DRKyOY92Vw0IbsX1PQan) |
+| **Capstone / final project** — Kaggle (public) | [ctd-python-data-pipeline](https://www.kaggle.com/code/acerpc/ctd-python-data-pipeline) |
+| Capstone — Colab copy (public) | [Open in Colab](https://colab.research.google.com/drive/1hlMLzbSWdUzTomWZooXEYugzOq-i0iLn) |
 | Capstone — notebook source + README | [final-project/](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment5/final-project/README.md) |
 | `CTD_Assignment_5.ipynb` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment5/assignment5/CTD_Assignment_5.ipynb) |
 | `CTD_Assignment_5_Colab.ipynb` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment5/assignment5/CTD_Assignment_5_Colab.ipynb) |
@@ -25,8 +26,8 @@ This README is the single link I submit for Week 5. Every deliverable is linked 
 
 | File | What it is | Tasks |
 |------|------------|-------|
-| [`CTD_Assignment_5.ipynb`](CTD_Assignment_5.ipynb) | Notebook source imported into Kaggle. Outputs are cleared here; the run with outputs is in the public Colab notebook linked above | 1–9 |
-| [`CTD_Assignment_5_Colab.ipynb`](CTD_Assignment_5_Colab.ipynb) | Same notebook for Google Colab: the first cell downloads the Kaggle datasets with `kagglehub`. The run with outputs is the public Colab link above | all |
+| [`CTD_Assignment_5.ipynb`](CTD_Assignment_5.ipynb) | Notebook source imported into Kaggle. Outputs are cleared here; the run with outputs is in the public Kaggle notebook linked above (Colab copy too) | 1–9 |
+| [`CTD_Assignment_5_Colab.ipynb`](CTD_Assignment_5_Colab.ipynb) | Same notebook for Google Colab: the first cell downloads the Kaggle datasets with `kagglehub`. Public Colab copy linked above | all |
 | [`../final-project/`](../final-project/README.md) | Capstone notebook (Global Superstore), Week 5 progress | 10 |
 
 The notebook reads its datasets from `/kaggle/input` (it falls back to a local `./data/` folder, which is git-ignored, for offline runs).
