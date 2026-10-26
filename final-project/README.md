@@ -4,9 +4,9 @@
 
 Code the Dream, Python 100 final project (capstone) by Brian Bazurto ([ba-00001](https://github.com/ba-00001)).
 
-**Colab notebook (public):** https://colab.research.google.com/drive/1hlMLzbSWdUzTomWZooXEYugzOq-i0iLn
+**Kaggle notebook (public):** https://www.kaggle.com/code/acerpc/ctd-python-data-pipeline
 
-**Kaggle notebook:** https://www.kaggle.com/code/acerpc/ctd-python-data-pipeline
+**Colab copy (public):** https://colab.research.google.com/drive/1hlMLzbSWdUzTomWZooXEYugzOq-i0iLn
 
 ## Dataset
 
@@ -26,7 +26,7 @@ The notebook does not hard-code that path. It searches `/kaggle/input` for any `
 2. In the right panel, click **Add Input**, search for **"Global Superstore"** and add the dataset by **anandaramg** (https://www.kaggle.com/datasets/anandaramg/global-superstore).
 3. Click **Run All**. The first cell lists the files under `/kaggle/input`, and the loader finds `Global Superstore.txt` automatically.
 4. Click **Save Version** (quick save, accept the defaults).
-5. Click **Share**, set it to **Public**, turn on **Allow comments**, and copy the URL into the submission form (second link field). Replace `https://www.kaggle.com/code/acerpc/ctd-python-data-pipeline` above with it.
+5. Click **Share**, set it to **Public**, turn on **Allow comments**, and copy the URL into the submission form (second link field).
 
 ## Progress
 
