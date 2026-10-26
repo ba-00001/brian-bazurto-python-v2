@@ -85,7 +85,7 @@ The notebook reads its datasets from `/kaggle/input` (it falls back to a local `
 
 **1. Do you already have a problem solving process in place that you’ve found effective? If so, tell us about it!**
 
-Yes, and it's mostly the same as last class: reproduce it, write down expected vs. actual in two sentences, cut it down, change one thing at a time. For data problems I added a step at the front: look at the data before writing anything (head, info, value_counts). In the capstone I almost dropped rows with a missing Postal Code until I looked and saw it was missing on about 80% of the rows, all outside the US. That changed the plan from "drop" to "fill with N/A".
+Yes, and it's mostly the same as last class: reproduce it, write down expected vs. actual in two sentences, cut it down, change one thing at a time. For data problems I added a step at the front: look at the data before writing anything (head, info, value_counts). In the capstone I was about to group customers by Customer ID until I looked and saw 4,873 IDs but only 795 names, because the same person gets a different ID in each market. That changed the plan to grouping by Customer Name.
 
 **2. Have you observed others in the class solving problems differently than you do? What have you learned from their problem solving techniques?**
 
