@@ -4,23 +4,35 @@
 
 Practice with decorators, list comprehensions, closures, and custom classes (Code the Dream Python 100, Week 3).
 
-## Submission links
+## Submission hub — everything for this week
 
-| # | Item | Link |
-|---|------|------|
-| URL1 | Pull request | https://github.com/ba-00001/brian-bazurto-python-v2/pull/3 |
+This README is the single link I submit for Week 3. Every deliverable is linked below, and the mindset response is at the bottom of this page.
+
+| Deliverable | Link |
+|---|---|
+| **Pull request** (code + review) | [#3](https://github.com/ba-00001/brian-bazurto-python-v2/pull/3) |
+| Folder on branch `assignment3` | [assignment3/](https://github.com/ba-00001/brian-bazurto-python-v2/tree/assignment3/assignment3) |
+| `decorator.log` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment3/assignment3/decorator.log) |
+| `extend-point-to-vector.py` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment3/assignment3/extend-point-to-vector.py) |
+| `hangman-closure.py` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment3/assignment3/hangman-closure.py) |
+| `list-comprehensions.py` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment3/assignment3/list-comprehensions.py) |
+| `log-decorator.py` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment3/assignment3/log-decorator.py) |
+| `tictactoe.py` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment3/assignment3/tictactoe.py) |
+| `type-decorator.py` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment3/assignment3/type-decorator.py) |
+| Mindset response | [Motivation and Mindset](#mindset-response--motivation-and-mindset) |
+| Lesson page (CTD Learns) | [Week 3](https://classes.codethedream.org/course/python-100-v2/python-for-data-analysis-26.4?week=3&lesson=More%20Python%20Skills) |
 
 ## Files
 
 | File | What it does | Task |
 |------|--------------|------|
-| `log-decorator.py` | `logger_decorator` logs each call's function name, positional params, keyword params and return value to `./decorator.log`; three decorated functions are called from the mainline | 1 |
-| `decorator.log` | Log file produced by running `log-decorator.py` | 1 |
-| `type-decorator.py` | `type_converter(type_of_output)` decorator factory; `return_int()` converted to `str`, `return_string()` converted to `int` (raises `ValueError`, caught in the mainline) | 2 |
-| `list-comprehensions.py` | Reads `../csv/employees.csv` with the csv module, builds the full-name list and the names-containing-"e" list with list comprehensions | 3 |
-| `hangman-closure.py` | `make_hangman(secret_word)` returns the `hangman_closure(letter)` closure that keeps `guesses`; playable hangman game using `input()` | 4 |
-| `extend-point-to-vector.py` | `Point` class (equality, string, Euclidean distance) and `Vector(Point)` subclass (own string, `+` returns a new `Vector`), with a demo | 5 |
-| `tictactoe.py` | `TictactoeException`, `Board` class (`valid_moves`, `__str__`, `move()`, `whats_next()`) and a two-player game loop | 6 |
+| [`log-decorator.py`](log-decorator.py) | `logger_decorator` logs each call's function name, positional params, keyword params and return value to `./decorator.log`; three decorated functions are called from the mainline | 1 |
+| [`decorator.log`](decorator.log) | Log file produced by running `log-decorator.py` | 1 |
+| [`type-decorator.py`](type-decorator.py) | `type_converter(type_of_output)` decorator factory; `return_int()` converted to `str`, `return_string()` converted to `int` (raises `ValueError`, caught in the mainline) | 2 |
+| [`list-comprehensions.py`](list-comprehensions.py) | Reads `../csv/employees.csv` with the csv module, builds the full-name list and the names-containing-"e" list with list comprehensions | 3 |
+| [`hangman-closure.py`](hangman-closure.py) | `make_hangman(secret_word)` returns the `hangman_closure(letter)` closure that keeps `guesses`; playable hangman game using `input()` | 4 |
+| [`extend-point-to-vector.py`](extend-point-to-vector.py) | `Point` class (equality, string, Euclidean distance) and `Vector(Point)` subclass (own string, `+` returns a new `Vector`), with a demo | 5 |
+| [`tictactoe.py`](tictactoe.py) | `TictactoeException`, `Board` class (`valid_moves`, `__str__`, `move()`, `whats_next()`) and a two-player game loop | 6 |
 
 ## How to run
 
