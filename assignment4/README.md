@@ -4,19 +4,28 @@
 
 Creating, loading, inspecting and cleaning data with pandas DataFrames.
 
-## Submission links
+## Submission hub — everything for this week
 
-| # | Item | Link |
-|---|------|------|
-| URL1 | Pull request | https://github.com/ba-00001/brian-bazurto-python-v2/pull/4 |
+This README is the single link I submit for Week 4. Every deliverable is linked below, and the mindset response is at the bottom of this page.
+
+| Deliverable | Link |
+|---|---|
+| **Pull request** (code + review) | [#4](https://github.com/ba-00001/brian-bazurto-python-v2/pull/4) |
+| Folder on branch `assignment4` | [assignment4/](https://github.com/ba-00001/brian-bazurto-python-v2/tree/assignment4/assignment4) |
+| `additional_employees.json` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment4/assignment4/additional_employees.json) |
+| `assignment4.py` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment4/assignment4/assignment4.py) |
+| `employees.csv` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment4/assignment4/employees.csv) |
+| Test results | [18 passed](#test-results) |
+| Mindset response | [Curiosity to Learn](#mindset-response--curiosity-to-learn) |
+| Lesson page (CTD Learns) | [Week 4](https://classes.codethedream.org/course/python-100-v2/python-for-data-analysis-26.4?week=4&lesson=Intro%20to%20Data%20Engineering) |
 
 ## Files
 
 | File | What it does | Tasks |
 |------|--------------|-------|
-| `assignment4.py` | All the code: builds DataFrames, reads/writes CSV and JSON, inspects and cleans data | 1–4 |
-| `employees.csv` | Written by the script from `task1_older` (no index), then read back in | 1.4, 2.1 |
-| `additional_employees.json` | Hand-made file with Eve and Frank, loaded into `json_employees` | 2.2 |
+| [`assignment4.py`](assignment4.py) | All the code: builds DataFrames, reads/writes CSV and JSON, inspects and cleans data | 1–4 |
+| [`employees.csv`](employees.csv) | Written by the script from `task1_older` (no index), then read back in | 1.4, 2.1 |
+| [`additional_employees.json`](additional_employees.json) | Hand-made file with Eve and Frank, loaded into `json_employees` | 2.2 |
 | `dirty_data.csv` | Provided messy data that gets cleaned into `clean_data` | 4 |
 | `assignment4-test.py` | Provided unit tests | all |
 
