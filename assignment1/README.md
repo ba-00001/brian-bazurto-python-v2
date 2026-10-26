@@ -93,5 +93,5 @@ What changed: last class I lost days on the Week 2 setup because I assumed the w
 
 **2. What information have you found crucial to include in your questions so that mentors or peers can help answer your questions quicker?**
 
-Same list as before, it still holds: (1) what I'm trying to do, not just what broke, (2) the full error pasted, not retyped, (3) the smallest piece of code that still breaks, (4) what I already tried and what happened, and (5) my setup (Python version, OS, which branch). The one I added this class is the exact test that's failing. With pytest, "test_calc fails on 12.6 - 4.4" gets an answer way faster than "my calculator is broken.
+Same list as before, it still holds: (1) what I'm trying to do, not just what broke, (2) the full error pasted, not retyped, (3) the smallest piece of code that still breaks, (4) what I already tried and what happened, and (5) my setup (Python version, OS, which branch). The one I added this class is the exact test that's failing. With pytest, "test_calc fails on 12.6 - 4.4" gets an answer way faster than "my calculator is broken."
 
