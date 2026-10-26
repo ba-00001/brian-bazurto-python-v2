@@ -4,21 +4,32 @@
 
 `input()` and file writing, reading CSVs into dicts/lists, `filter`/`lambda`/`sort`, dicts of dicts, `os.getenv`, a custom module, sets, `map` and `datetime` (Code the Dream Python 100 v2, Week 2).
 
-## Submission links
+## Submission hub — everything for this week
 
-| # | Item | Link |
-|---|------|------|
-| URL1 | Pull request | https://github.com/ba-00001/brian-bazurto-python-v2/pull/2 |
+This README is the single link I submit for Week 2. Every deliverable is linked below, and the mindset response is at the bottom of this page.
+
+| Deliverable | Link |
+|---|---|
+| **Pull request** (code + review) | [#2](https://github.com/ba-00001/brian-bazurto-python-v2/pull/2) |
+| Folder on branch `assignment2` | [assignment2/](https://github.com/ba-00001/brian-bazurto-python-v2/tree/assignment2/assignment2) |
+| `assignment2.py` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment2/assignment2/assignment2.py) |
+| `custom_module.py` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment2/assignment2/custom_module.py) |
+| `diary.py` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment2/assignment2/diary.py) |
+| `diary.txt` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment2/assignment2/diary.txt) |
+| `minutes.csv` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment2/assignment2/minutes.csv) |
+| Test results | [14 passed](#test-results) |
+| Mindset response | [AI for Learning](#mindset-response--ai-for-learning) |
+| Lesson page (CTD Learns) | [Week 2](https://classes.codethedream.org/course/python-100-v2/python-for-data-analysis-26.4?week=2&lesson=Data%20Structures%20and%20File%20Handling) |
 
 ## Files
 
 | File | What it does | Task |
 |------|--------------|------|
-| `diary.py` | Appends lines to `diary.txt` until `done for now`; prompts `What happened today? ` then `What else? `; `try`/`except Exception` with the traceback report | 1 |
-| `diary.txt` | Output of two test runs (the second was ended with Ctrl-D to trigger the exception) | 1 |
-| `assignment2.py` | Tasks 2–15, each marked with a `# Task N` comment | 2–15 |
-| `custom_module.py` | `secret = "shazam!"` and `set_secret()`, exactly as given | 11 |
-| `minutes.csv` | Written by `write_sorted_list()`: chairpersons with duplicates removed, sorted by date | 15 |
+| [`diary.py`](diary.py) | Appends lines to `diary.txt` until `done for now`; prompts `What happened today? ` then `What else? `; `try`/`except Exception` with the traceback report | 1 |
+| [`diary.txt`](diary.txt) | Output of two test runs (the second was ended with Ctrl-D to trigger the exception) | 1 |
+| [`assignment2.py`](assignment2.py) | Tasks 2–15, each marked with a `# Task N` comment | 2–15 |
+| [`custom_module.py`](custom_module.py) | `secret = "shazam!"` and `set_secret()`, exactly as given | 11 |
+| [`minutes.csv`](minutes.csv) | Written by `write_sorted_list()`: chairpersons with duplicates removed, sorted by date | 15 |
 | `assignment2-test.py` | PyTest suite provided by CTD (unchanged) | — |
 
 ## How to run
