@@ -4,21 +4,29 @@
 
 Kaggle notebook `CTD_Assignment_6`: selection, groupby aggregation, pivot tables, `apply()`, merge/join, filtering, sorting, renaming, concatenation, and reshaping the international football results.
 
-## Submission links
+## Submission hub — everything for this week
 
-| # | Item | Link |
-|---|------|------|
-| URL1 | Kaggle notebook (`CTD_Assignment_6`) | https://www.kaggle.com/code/acerpc/ctd-assignment-6 |
-| URL2 | Capstone Kaggle notebook | https://www.kaggle.com/code/acerpc/ctd-python-data-pipeline |
-| — | Pull request | https://github.com/ba-00001/brian-bazurto-python-v2/pull/6 |
+This README is the single link I submit for Week 6. Every deliverable is linked below, and the mindset response is at the bottom of this page.
 
-Task 13 (final project) is in [`final-project/`](../final-project/README.md) and in its own Kaggle notebook, which goes in the second link on the submission form: https://www.kaggle.com/code/acerpc/ctd-python-data-pipeline
+| Deliverable | Link |
+|---|---|
+| **Pull request** (code + review) | [#6](https://github.com/ba-00001/brian-bazurto-python-v2/pull/6) |
+| Folder on branch `assignment6` | [assignment6/](https://github.com/ba-00001/brian-bazurto-python-v2/tree/assignment6/assignment6) |
+| **Colab notebook** (public, run with outputs) | [Open in Colab](https://colab.research.google.com/drive/1YQgDTfVouEUVJHq95ZmIoxOZY-pBHVRo) |
+| Kaggle notebook (same code; private on Kaggle) | [ctd-assignment-6](https://www.kaggle.com/code/acerpc/ctd-assignment-6) |
+| **Capstone / final project** — Colab (public) | [Open in Colab](https://colab.research.google.com/drive/1hlMLzbSWdUzTomWZooXEYugzOq-i0iLn) |
+| Capstone — notebook source + README | [final-project/](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment6/final-project/README.md) |
+| `CTD_Assignment_6.ipynb` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment6/assignment6/CTD_Assignment_6.ipynb) |
+| `CTD_Assignment_6_Colab.ipynb` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment6/assignment6/CTD_Assignment_6_Colab.ipynb) |
+| Mindset response | [Problem Solving](#mindset-response--problem-solving) |
+| Lesson page (CTD Learns) | [Week 6](https://classes.codethedream.org/course/python-100-v2/python-for-data-analysis-26.4?week=6&lesson=Data%20Wrangling%20and%20Aggregation) |
 
 ## Files
 
 | File | What it is | Tasks |
 |------|------------|-------|
-| `CTD_Assignment_6.ipynb` | Notebook source imported into Kaggle. Outputs are cleared here; the run against the real Kaggle inputs is in the shared Kaggle notebook (URL1) | 1–12 |
+| [`CTD_Assignment_6.ipynb`](CTD_Assignment_6.ipynb) | Notebook source imported into Kaggle. Outputs are cleared here; the run with outputs is in the public Colab notebook linked above | 1–12 |
+| [`CTD_Assignment_6_Colab.ipynb`](CTD_Assignment_6_Colab.ipynb) | Same notebook for Google Colab: the first cell downloads the Kaggle datasets with `kagglehub`. The run with outputs is the public Colab link above | all |
 | [`../final-project/`](../final-project/README.md) | Capstone notebook (Global Superstore), Week 6 progress | 13 |
 
 The notebook reads its datasets from `/kaggle/input` (it falls back to a local `./data/` folder, which is git-ignored, for offline runs).
