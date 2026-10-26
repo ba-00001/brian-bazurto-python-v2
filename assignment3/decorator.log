@@ -1,0 +1,12 @@
+function: say_hello
+positional parameters: none
+keyword parameters: none
+return: None
+function: takes_positional
+positional parameters: [1, 'two', 3.0]
+keyword parameters: none
+return: True
+function: takes_keywords
+positional parameters: none
+keyword parameters: {'name': 'Brian', 'course': 'Python 100', 'week': 3}
+return: <function logger_decorator at 0x7f085f7976a0>
