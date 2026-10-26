@@ -13,5 +13,3 @@ sync-projectguidefordev.sh
 .DS_Store
 **/data/
 .ipynb_checkpoints/
-.claude/
-CLAUDE.md
