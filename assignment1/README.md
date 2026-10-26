@@ -4,17 +4,24 @@
 
 Functions, f-strings, type conversion, error handling, loops, `*args`/`**kwargs` and string manipulation (Code the Dream Python 100 v2, Week 1).
 
-## Submission links
+## Submission hub — everything for this week
 
-| # | Item | Link |
-|---|------|------|
-| URL1 | Pull request | https://github.com/ba-00001/brian-bazurto-python-v2/pull/1 |
+This README is the single link I submit for Week 1. Every deliverable is linked below, and the mindset response is at the bottom of this page.
+
+| Deliverable | Link |
+|---|---|
+| **Pull request** (code + review) | [#1](https://github.com/ba-00001/brian-bazurto-python-v2/pull/1) |
+| Folder on branch `assignment1` | [assignment1/](https://github.com/ba-00001/brian-bazurto-python-v2/tree/assignment1/assignment1) |
+| `assignment1.py` | [view](https://github.com/ba-00001/brian-bazurto-python-v2/blob/assignment1/assignment1/assignment1.py) |
+| Test results | [10 passed](#test-results) |
+| Mindset response | [Asking for Help](#mindset-response--asking-for-help) |
+| Lesson page (CTD Learns) | [Week 1](https://classes.codethedream.org/course/python-100-v2/python-for-data-analysis-26.4?week=1&lesson=Intro%20to%20Python) |
 
 ## Files
 
 | File | What it does | Task |
 |------|--------------|------|
-| `assignment1.py` | All ten functions, each marked with a `# Task N` comment: `hello`, `greet`, `calc`, `data_type_conversion`, `grade`, `repeat`, `student_scores`, `titleize`, `hangman`, `pig_latin` | 1–10 |
+| [`assignment1.py`](assignment1.py) | All ten functions, each marked with a `# Task N` comment: `hello`, `greet`, `calc`, `data_type_conversion`, `grade`, `repeat`, `student_scores`, `titleize`, `hangman`, `pig_latin` | 1–10 |
 | `assignment1-test.py` | PyTest suite provided by CTD (unchanged) | — |
 
 ## How to run
