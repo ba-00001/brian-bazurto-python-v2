@@ -1,0 +1,4 @@
+Went to the library and finished the Python lesson
+Tried the diary program for the first time
+done for now
+Fixed a bug in my calc function
